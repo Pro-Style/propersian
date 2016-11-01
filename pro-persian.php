@@ -18,7 +18,7 @@ Donate link: http://prostyle.ir/pay
 require 'plugin-update-checker/plugin-update-checker.php';
 $className = PucFactory::getLatestClassVersion('PucGitHubChecker');
 $myUpdateChecker = new $className(
-    'https://github.com/Pro-Style/pro-persian/',
+    'https://github.com/Pro-Style/propersian/',
     __FILE__,
     'master'
 );

@@ -134,7 +134,7 @@ require_once( ABSPATH . 'wp-admin/admin-header.php' );
 <div class="col-xs-5">
           </div>
         </div>
-        <h4><span class="label label-default"><a style="color: #ffffff;" href="https://github.com/Pro-Style/pro-persian" target="_blank">  انتخاب ستاره در گیت هاب</a></span></h4>
+        <h4><span class="label label-default"><a style="color: #ffffff;" href="https://github.com/Pro-Style/propersian" target="_blank">  انتخاب ستاره در گیت هاب</a></span></h4>
         <p> با ثبت کردن یک ستاره برای پروژه در سایت گیت هاب از روند پیشرفت افزونه حمایت نمائید</p>
       </div>
       <div class="col-lg-6">
