@@ -68,6 +68,9 @@ This plugin is part of WPLMS Projects (http://prostyle.ir "Mr Shahedi")
 
 == Changelog ==
 
+= 4.1.5 =
+* fixed Some error
+
 = 4.1.4 =
 * Updated bbPress and BuddyPress translation files
 * fixed Some error

@@ -11,7 +11,7 @@ It will turn bbPress and BuddyPress into Persian !
 
 == Description ==
 
-It will turn WordPress , bbPress and BuddyPress into Persian ! and also enables awesome features ! 
+It will turn WordPress , bbPress and BuddyPress into Persian ! and also enables awesome features !
 
 افزونه پرو پرشین افزونه های بادی پرس و بی بی پرس را به زبان فارسی ترجمه خواهد کرد  
 
@@ -67,6 +67,9 @@ This plugin is part of WPLMS Projects (http://prostyle.ir "Mr Shahedi")
 3. Edit Caption
 
 == Changelog ==
+
+= 4.1.5 =
+* fixed Some error
 
 = 4.1.4 =
 * Updated bbPress and BuddyPress translation files
