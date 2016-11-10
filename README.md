@@ -1,4 +1,4 @@
-=== Pro Persian ===
+﻿=== Pro Persian ===
 
 Contributors: Pro Style Team
 
@@ -24,10 +24,7 @@ It will turn WordPress , bbPress and BuddyPress into Persian ! and also enables 
 
 = Features =
 
-*   It Translates **All Part of WordPress** , **bbPress** and **BuddyPress** and *WPLMS Some part of WPLMS theme* ( WordPress 4.0 default theme )
-*   Enables **RTL and LTR buttons** [TinyMCE editor]
-
-*   Enables **Create Username containing Persian characters** [Default Wordpress does not allow to use persian characters in usernames]
+*   It Translates **All Part of Wpllms theme** , **bbPress** and **BuddyPress** and *WPLMS Some part of WPLMS theme* ( WordPress 4.0 default theme )
 
 
 
@@ -69,7 +66,7 @@ This plugin is part of WPLMS Projects (http://prostyle.ir "Mr Shahedi")
 == Changelog ==
 
 = 4.1.5 =
-* fixed Some error
+* fixed woocommerce en/fa error
 
 = 4.1.4 =
 * Updated bbPress and BuddyPress translation files

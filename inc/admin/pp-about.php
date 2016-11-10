@@ -9,7 +9,6 @@ require_once( ABSPATH . 'wp-admin/admin-header.php' );
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- Bootstrap -->
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -19,19 +18,17 @@ require_once( ABSPATH . 'wp-admin/admin-header.php' );
     <![endif]-->
 </head>
 <body>
-
   <div class="container">
     <hr>
     		<div class="wrap about-wrap">
 			<h1>به مترجم انجمن و فروم وردپرس خوش آمدید</h1>
 			<div class="about-text">هم اکنون بهترین زمان برای استفاده از افزونه‌ی پرو پرشین است ،  چرا که افزونه و تمام ویژگی‌ها بهینه شده‌اند و مشکلات افزونه برطرف شده‌است.
 			</div>
-			<div class="pw-badge">نگارش 4.1.3</div>
+			<div class="pp-badge">نگارش 4.1.3</div>
     <hr>
     <h2>مترجم بهینه شده برای سیستم وردپرس</h2>
     <hr>
     <div class="container">
-    	
         <hr>
         <div class="row">
     		<div class="col-lg-4 col-sm-6 col-xs-6"><a href="https://wordpress.org/plugins/bbpress/" target="_blank"><?php echo '<img class="media-object img-rounded" src="' . plugins_url( 'img/bbpress.jpg' , __FILE__ ) . '" > '; ?></a></div>
@@ -46,10 +43,13 @@ require_once( ABSPATH . 'wp-admin/admin-header.php' );
         <div class="media">
           <div class="media-body">
             <h2 class="media-heading">پیام تیم پرو استایل</h2>
-           برای ترجمه افزونه های بادی پرس و بی بی پرس فقط کافیست افزونه پرو پرشین را فعال و بصورت مرتب بروزرسانی فرمائید</div>
+           برای ترجمه افزونه های بادی پرس و بی بی پرس فقط کافیست افزونه پرو پرشین را فعال و بصورت مرتب بروزرسانی فرمائید
+           </div>
         </div>
       </div>
-      <div class="col-xs-5 well">
+      <div class="col-sm-4 col-lg-5">
+        <h2>اطلاعات تماس </h2>
+        <hr>
         <div class="row">
           <div class="col-lg-6">
             <h4 align="center">Mob : 09149550521</h4>
@@ -67,7 +67,6 @@ require_once( ABSPATH . 'wp-admin/admin-header.php' );
           </div>
         </div>
       </div>
-    </div>
     <hr>
     <div class="row">
       <div class="col-sm-8 col-lg-7">
@@ -123,13 +122,14 @@ require_once( ABSPATH . 'wp-admin/admin-header.php' );
 </div>
     </div>
     <hr>
+ <div class="col-sm-8 col-lg-7">
     <h2>حمایت از پروژه</h2>
 <hr>
     <div class="row">
       <div class="col-lg-6">
         <div class="row">
           <div class="col-xs-5">
-            <h4>انتخاب ستاره در گیت هاب</h4>
+            <h4>امتیاز</h4>
           </div>
 <div class="col-xs-5">
           </div>
@@ -149,20 +149,17 @@ require_once( ABSPATH . 'wp-admin/admin-header.php' );
         <p>در صورت امکان با پرداخت دو هزار تومان در طرح توسعه افزونه پرو پرشین شرکت نمائید</p>
       </div>
     </div>
-    <hr>
-
-<footer class="text-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-      </div>
     </div>
-  </div>
-<div style="background: none repeat scroll 0% 0% #e74c3c; width: 100%; color: #ffffff; height: 25px; line-height: 25px; border-bottom: 1px solid #ffffff; text-align: center;"><span style="color: #00ffff; text-decoration: none; font-size: 13px; font-family: BYekan,B Yekan,X Yekan,Yekan,Arial,Tahoma;">&nbsp; توجه ! </span></div>
-<div style="background: none repeat scroll 0% 0% #e74c3c; width: 100%; color: #ffffff; height: 25px; line-height: 25px; border-bottom: 1px solid #ffffff; text-align: center;"><span style="color: #fff; text-decoration: none; font-size: 13px; font-family: BYekan,B Yekan,X Yekan,Yekan,Arial,Tahoma;">&nbsp;این افزونه اختصاصی تیم پرو استایل بوده و برای بهینه سازی و توسعه سیستم آموزشگاه آنلاین ارائه شده است </span></div>
-<div style="background: none repeat scroll 0% 0% #e74c3c; width: 100%; color: #ffffff; height: 25px; line-height: 25px; border-bottom: 1px solid #ffffff; text-align: center;"><strong><span style="color: #000000; text-decoration: none; font-size: 13px; font-family: BYekan,B Yekan,X Yekan,Yekan,Arial,Tahoma;">لذا شما حق فروش این افزونه به غیر را ندارید</span></strong></div>
-				</div>
-<p style="text-align: center; direction:rtl:!important;">Copyright © Pro Style. All rights reserved</p>
-</footer>
+    <hr>
+<div class="col-sm-4 col-lg-5">
+    <div class="row">
+      <a href="https://www.prostyle.ir/" target="_blank"><?php echo '<img class="media-object img-rounded" src="' . plugins_url( 'img/pro-style.gif' , __FILE__ ) . '" > '; ?></a> 
+            </div>
+    </div> 
+<div class="container"> 
+            <p style="text-align: center; direction:rtl:!important;"> این افزونه اختصاصی تیم پرو استایل بوده و برای بهینه سازی و توسعه سیستم آموزشگاه آنلاین ارائه شده است 
+</p>
+      <p style="text-align: center; direction:rtl:!important;">Copyright © Pro Style. All rights reserved</p>
+ </div>
 </body>
 </html>
