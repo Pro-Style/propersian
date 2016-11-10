@@ -1,6 +1,6 @@
 ﻿<?php
 /*
-Plugin Name: مترجم انجمن و فروم
+Plugin Name: مترجم پرو استایل
 Plugin URI: http://www.prostyle.ir
 Description: این افزونه افزونه های بادی پرس و بی بی پرس را به فارسی ترجمه خواهد کرد 
 Version: 4.1.5

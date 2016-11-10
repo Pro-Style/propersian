@@ -15,6 +15,53 @@ It will turn WordPress , bbPress and BuddyPress into Persian ! and also enables 
 
 افزونه پرو پرشین افزونه های بادی پرس و بی بی پرس را به زبان فارسی ترجمه خواهد کرد  
 
+                                                                   
+             `@@@@@@@@@@@`        Powerful and beautiful                                 
+               :@@@#  ;@@@'       ======================                                 
+                @@@    `@@@`      Web    www.prostyle.ir                                
+                @@@     @@@@      Mail   info[at]prostyle.ir                           
+                @@@     @@@@      Tel    09149550521                             
+                @@@     @@@@                                       
+                @@@     @@@@     `  .       `'@;                   
+                @@@    @@@@     '@@@@@@    @@@@@@@                 
+                @@@ @@@@@@`   @@@@@:'@@.  @@`  `@@@                
+                @@@ +@@@+     @;@@. @@@  @@.     @@@               
+                @@@            ,@@  @@  `@@      +@@               
+                @@@            ,@@      +@@       @@,              
+                @@@            ,@@      @@@       @@;              
+                @@@            ,@@      @@@       @@:              
+                @@@            ,@@      .@@`      @@               
+                @@@            ,@@       @@@     .@@               
+                @@@            ,@@       .@@@    @@                
+              @@@@@@@.       +@@@@@@      ,@@@@@@@`                
+              @@@@@@@        .@@@@@@        +@@@;                                                                                 
+                                                                   
+       @@@@@ @.                                                    
+      @@@@@@@@;                             .@@                   
+     @@@    @@;                            @@@@                    
+    `@@@     @;                            @@@@                    
+    ,@@@     @;      :                      ,@@                    
+    .@@@@    @;      @;                     ,@@                    
+     @@@@@#         @@                      ,@@       @@@@         
+     `@@@@@@.    @@@@@@@  @@@@@@@+ +@@@@@`  ,@@     '@@@@@@@       
+       @@@@@@S   A@@@@@M  +@@@@@@A `@@@@N   ,@@    ;@@`   @@;      
+        ;@@@@@:    @@;       @@@.    @,     ,@@    @@@    .@@      
+          @@@@@    @@;        @@@   #@      ,@@   ;@@      @@.     
+           #@@@`   @@;        :@@#  @@      ,@@   @@@ #@@@@@@@     
+     @:     @@@:   @@;         @@@ ,@       ,@@   @@@ @@@@@@@:     
+     @;     '@@;   @@;          @@@@@       ,@@   @@@              
+     @;     :@@.   @@;          '@@@`       ,@@   @@@              
+     @@     @@@    @@;           @@@        ,@@    @@+             
+     @@     @@@    @@;           ;@         ,@@    @@@     @:      
+     @@@,  @@@     @@@`@.        @@        .@@@'    @@@@;@@@       
+     @;@@@@@@       @@@@.       @@         @@@@@@    :@@@@@        
+         ..          ;`        :@,                                 
+                    +@         @@                                  
+                    @@        @@                                   
+                    :@      .@@                                    
+                     @@;  .@@@                                     
+                      @@@@@@                                      
+					  
 = Compatibility =
 
 *   WordPress : **4.6.1**
@@ -57,11 +104,11 @@ This plugin is part of WPLMS Projects (http://prostyle.ir "Mr Shahedi")
 
 == Screenshots ==
 
-1. Add New Word Caption
+1. Add New Word 
 
-2. After refresh the page
+2. Download New bbPress and BuddyPress
 
-3. Edit Caption
+3. Update Pro Persian Plugin from dashboard
 
 == Changelog ==
 
@@ -93,7 +140,3 @@ This plugin is part of WPLMS Projects (http://prostyle.ir "Mr Shahedi")
 * Updated bbPress and BuddyPress translation files
 
 [ More .. ]
-
-
-
-
