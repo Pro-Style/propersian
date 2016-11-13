@@ -112,6 +112,9 @@ This plugin is part of WPLMS Projects (http://prostyle.ir "Mr Shahedi")
 
 == Changelog ==
 
+= 5.2 =
+* Updated BuddyPress translation files
+
 = 5.1 =
 * fixed woocommerce en 2.6.8
 * fixed woocommerce fa 2.6.2

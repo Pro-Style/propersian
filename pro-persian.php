@@ -3,7 +3,7 @@
 Plugin Name: مترجم پرو استایل
 Plugin URI: http://www.prostyle.ir
 Description: این افزونه افزونه های بادی پرس و بی بی پرس را به فارسی ترجمه خواهد کرد 
-Version: 5.1
+Version: 5.2
 Author: تیم پرو استایل
 Author URI: http://www.prostyle.ir
 License : GPLv2 or Later
